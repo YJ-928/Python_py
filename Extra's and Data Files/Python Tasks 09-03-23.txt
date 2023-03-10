@@ -1,0 +1,23 @@
+1. Write a Python decorator that prints the time taken to execute a function.
+
+2. There were 6 columns in a csv and each row representing a student. First column contains
+the student name, and the next 5 columns contain marks of that student in each subject.
+Read that csv, and calculate the average of marks for each student, and store the student
+name and average marks in another csv.
+
+3. A list of dictionaries contain data as shown below. Using list comprehension, get the
+person's data whose age is > 30.
+people = [ {"name": "Alice", "age": 25}, {"name": "Bob", "age": 30}, {"name":
+"Charlie", "age": 35}, {"name": "David", "age": 40}]
+
+4. Create a class, where it contains a method to Write to csv file, append data to it,
+ Also, it contains a method to delete that csv file which cannot be accessed outside the class. 
+ Also in this class the csv file name should not be accessed or modified outside of the class.
+
+5. Write a Python lambda function to calculate the factorial of a given number.
+
+6. There was a dictionary with various strings as keys and values of any type. Take an input from user, and check if that input is found as a key in dictionary. If found, print the value, else print "Key is not Found". Take input from user until user types "bye".
+
+7. Implement Multilevel Inheritance in Python.
+
+8. Write python program with various exceptions handled.

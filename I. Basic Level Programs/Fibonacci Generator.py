@@ -14,5 +14,4 @@ for i in range(0,n):
     print(temp)
     fibonacciSeries.append(temp)
 
-print("Your Fibonacci Series in a Array/List form:")
-print(fibonacciSeries)
+print("Your Fibonacci Series in a Array/List form:",fibonacciSeries)

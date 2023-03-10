@@ -3,8 +3,7 @@ weight = int((input("Enter your weight (in Kg): ")))
 height = int((input("Enter your height (in m): ")))
 heightSq = (height * height)
 bmi = (weight/heightSq)
-print("Your BMI is:")
-print(bmi)
+print("Your BMI is:",bmi)
 if (bmi < 18.5):
     print("You are under weight.")
 elif (bmi >= 18.5 and bmi <=24.9):
